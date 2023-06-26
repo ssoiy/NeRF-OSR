@@ -1,3 +1,6 @@
+data/
+logs/
+
 # mac
 .DS_Store
 
